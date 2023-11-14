@@ -1,25 +1,17 @@
 export const cardItems = [
   {
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBjoIliglIheIdY-IMLRT6MWMGmXY_8sFVdw&usqp=CAU",
-    cardTitle: "Disney Hotel New York",
-    cardWalk: "10 min walk to Park",
-    cardShuttle: "8 min free shutle to Park",
-    cardText:
-      "Live the high life in contemporary New York setting surrounded by marvel artwork.",
+    img: "https://th.bing.com/th/id/OIP.DRpOJdpuyqlLttkHkG_qNwHaHa?pid=ImgDet&rs=1",
+    cardTitle: "Nigerian Army",
+    cardText: "Pride of the Nation.",
   },
   {
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrEX1vxWwUZsPmOt9mdEmqPdTUthfDrQXI1Q&usqp=CAU",
-    cardTitle: "Disney Hotel Bay Club",
-    cardWalk: "10 min walk to Park",
-    cardShuttle: "8 min free shutle to Park",
-    cardText:
-      "Wake up in a world of seaside splendour with a nautical nod to Mickey's maritime adventures.",
+    img: "https://th.bing.com/th/id/OIP.6qk7WzAzdNWe5beVLF7StwHaIY?w=146&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+    cardTitle: "Nigerian Navy",
+    cardText: "Onward Together.",
   },
   {
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa0NTkYK3izMRYApNfso6DyYqM5CI8px83ail9xi_zvFFjpoB6U92cvBLb3ZMOQxfBkLc&usqp=CAU",
-    cardTitle: "Disney Sequoia Lodge",
-    cardWalk: "10 min walk to Park",
-    cardShuttle: "8 min free shutle to Park",
-    cardText: "Relax in a grand lodge desinged with a touch of Bambi magic.",
+    img: "https://th.bing.com/th/id/OIP.H3iWKwVHK9VQyYNEJHb8gAHaIU?w=147&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7",
+    cardTitle: "Nigerian Air Force",
+    cardText: "Able, Willing and Ready.",
   },
 ];
